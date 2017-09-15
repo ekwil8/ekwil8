@@ -1,0 +1,195 @@
+
+
+h1 {
+    
+    width: 200px;
+    display: inline-block;
+    margin: 20px;
+    padding: 50px;
+    position:absolute;
+    right: 100px;
+    color:indianred;
+    
+}
+
+#word {
+    
+     width: 30px;
+ 
+    margin: 20px;
+    padding: 50px;
+    position:absolute;
+    right: 0px;
+    color:indianred;
+    
+}
+span1 {
+    
+     width: 200px;
+ 
+    margin: 20px;
+    padding: 50px;
+    position:absolute;
+    right: 0px;
+    color:indianred;
+    
+}
+
+span {
+    
+    width: 300px;
+    position:absolute;
+    right: 250px;
+    font-size: 70px
+    
+}
+
+#anger {
+     width: 200px;
+    display: inline-block;
+    margin: 20px;
+    padding: 50px;
+    position:absolute;
+    right: 100px;
+    color:indianred; }
+
+#a { position:absolute;
+    right: 0px;}
+#b { position:absolute;
+    right: 250px;}
+#c { position:absolute;
+    right: 500px;}
+#d { position:absolute;
+    left: 0px;}
+#e { position:absolute;
+    right: 250px;}
+#f { position:absolute;
+    right: 500px;}
+#g { position:absolute;
+    left: 0px;}
+#h { position:absolute;
+    right: 250px;}
+#i { position:absolute;
+    right: 500px;}
+#j { position:absolute;
+    left: 0px;}
+#k { position:absolute;
+    right: 250px;}
+#l { position:absolute;
+    right: 500px;}
+#m { position:absolute;
+    left: 0px;}
+#n { position:absolute;
+    right: 250px;}
+#o { position:absolute;
+    right: 500px;}
+#p { position:absolute;
+    left: 0px;}
+#q { position:absolute;
+    right: 250px;}
+#r { position:absolute;
+    right: 500px;}
+#s { position:absolute;
+    left: 0px;}
+#t { position:absolute;
+    right: 250px;}
+#u { position:absolute;
+    right: 500px;}
+#v { position:absolute;
+    left: 0px;}
+#w { position:absolute;
+    right: 250px;}
+#x { position:absolute;
+    right: 500px;}
+#y { position:absolute;
+    left: 0px;}
+#z { position:absolute;
+    right: 250px;}
+#aa { position:absolute;
+    right: 0px;}
+#bb { position:absolute;
+    right: 250px;}
+#cc { position:absolute;
+    right: 500px;}
+#dd { position:absolute;
+    left: 0px;}
+#ee { position:absolute;
+    right: 250px;}
+#ff { position:absolute;
+    right: 500px;}
+#gg { position:absolute;
+    left: 0px;}
+#hh { position:absolute;
+    right: 250px;}
+#ii { position:absolute;
+    right: 500px;}
+#jj { position:absolute;
+    left: 0px;}
+#kk { position:absolute;
+    right: 250px;}
+#ll { position:absolute;
+    right: 500px;}
+#mm { position:absolute;
+    left: 0px;}
+#nn { position:absolute;
+    right: 250px;}
+#oo { position:absolute;
+    right: 500px;}
+#pp { position:absolute;
+    left: 0px;}
+#qq { position:absolute;
+    right: 250px;}
+#rr { position:absolute;
+    right: 500px;}
+#ss { position:absolute;
+    left: 0px;}
+#tt { position:absolute;
+    right: 250px;}
+#uu { position:absolute;
+    right: 500px;}
+#vv { position:absolute;
+    left: 0px;}
+#ww { position:absolute;
+    right: 250px;}
+#xx { position:absolute;
+    right: 500px;}
+#yy { position:absolute;
+    left: 0px;}
+#zz { position:absolute;
+    right: 250px;}
+#aaa { position:absolute;
+    right: 0px;}
+#bbb { position:absolute;
+    right: 250px;}
+#ccc { position:absolute;
+    right: 500px;}
+#ddd { position:absolute;
+    left: 0px;}
+#eee { position:absolute;
+    right: 250px;}
+#fff { position:absolute;
+    right: 500px;}
+#ggg { position:absolute;
+    left: 0px;}
+#hhh { position:absolute;
+    right: 250px;}
+#iii { position:absolute;
+    right: 500px;}
+#jjj { position:absolute;
+    left: 0px;}
+#kkk { position:absolute;
+    right: 250px;}
+#lll { position:absolute;
+    right: 500px;}
+#mmm { position:absolute;
+    left: 0px;}
+#nnn { position:absolute;
+    right: 250px;}
+#ooo { position:absolute;
+    right: 500px;}
+#ppp { position:absolute;
+    left: 0px;}
+#qqq { position:absolute;
+    right: 250px;}
+#rrr { position:absolute;
+    right: 500px;}
